@@ -2,6 +2,7 @@
 #define SUDOKO_H
 #include <stack>
 #include <iostream>
+#include <sstream> 
 /*
 Hong Kit Wu, A00968591
 Reference: https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html
